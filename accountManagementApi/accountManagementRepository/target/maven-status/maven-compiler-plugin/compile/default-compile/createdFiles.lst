@@ -1,0 +1,6 @@
+fr\sg\kata\repository\models\Client.class
+fr\sg\kata\repository\models\Account.class
+fr\sg\kata\repository\models\TransactionType.class
+fr\sg\kata\repository\IAccountRepository.class
+fr\sg\kata\repository\ITransactionRepository.class
+fr\sg\kata\repository\models\Transaction.class

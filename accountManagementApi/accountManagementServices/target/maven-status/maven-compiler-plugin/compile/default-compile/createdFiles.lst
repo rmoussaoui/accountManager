@@ -1,0 +1,4 @@
+fr\sg\kata\services\impl\AccountServiceImpl.class
+fr\sg\kata\services\ITransactionService.class
+fr\sg\kata\services\IAccountService.class
+fr\sg\kata\services\impl\TransactionServiceImpl.class
